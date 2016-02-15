@@ -14,5 +14,7 @@ public class Test {
 		
 		a.Wyswietl();
 		b.Wyswietl();
+		
+		System.out.println("A ty mnie lubisz??");
 	}
 }

@@ -1,7 +1,7 @@
 
 public class Punkt {
 	public int x;
-	private int y;
+	public int y;
 
 	
 
