@@ -16,5 +16,6 @@ public class Test {
 		b.Wyswietl();
 		
 		System.out.println("A ty mnie lubisz??");
+		System.out.println("No dobra)");
 	}
 }
